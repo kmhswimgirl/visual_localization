@@ -1,2 +1,2 @@
-# ros2_package
-A generic ROS 2 ament_cmake package template.
+# visual_localization
+Using a single USB camera and relative heading of objects for determining pose. Basically a ROS implementation of my vis_loc repository.
